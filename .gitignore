@@ -1,0 +1,8 @@
+/vendor/
+/nbproject/private/
+credentials.json
+token.json
+composer.lock
+*.crt
+*.key
+/nbproject/

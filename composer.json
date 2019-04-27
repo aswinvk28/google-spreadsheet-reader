@@ -1,0 +1,12 @@
+{
+    "name": "aswin.vijayakumar/google-spreadsheet-reader",
+    "authors": [
+        {
+            "name": "Aswin Vijayakumar",
+            "email": "aswinvk28@gmail.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^2.0"
+    }
+}
